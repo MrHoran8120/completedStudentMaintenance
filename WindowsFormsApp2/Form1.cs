@@ -48,7 +48,7 @@ namespace WindowsFormsApp2
         // returns -1 if there is an error
         private int addStudent(Student theStudent)
         {
-            return -1;
+            return 0;
         }
         private void printArray ()
         {
